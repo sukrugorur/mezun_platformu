@@ -1,16 +1,29 @@
-# flutter_appproje
+# Mezunlar Buluşuyor
 
-A new Flutter application.
 
-## Getting Started
+Uygulama Mezunlar Buluşuyor adıyla oluşturulmuştur. Uygulamanın amacı üniversitelerin belirli alanlarından yeni mezun olan ya da daha önce mezun olmuş kişilerin kendileri hakkında bilgi paylaşabilecekleri bir platformdur. Platforma kaydolan kullanıcılar istekleri doğrultusunda öğrenim hayatlarında yaptıkları staj firma ve departmanları, eğer varsa daha önce tecrübe ettikleri veya çalıştıkları firma, firmada bulundukları departman ve bu firmalarda ne kadar süre çalıştıkları hakkında bilgileri sisteme sunabilecektir. Aynı zamanda kullanıcılar mezun oldukları üniversite, mezun oldukları bölüm ve mezun oldukları üniversiteden hangi genel akademik ortalama ile mezun olduklarıyla ilgili bilgilerini de sisteme ekleyebileceklerdir. Sisteme eklenen kullanıcı bilgileri diğer kullanıcılar tarafından da görülebilecektir. Sistemdeki kullanıcılar daha fazla etkileşimde bulunmak istedikleri diğer kullanıcıları takip ederek bu kullanıcıların paylaşımlarını daha ön planda görebilecektir. Kullanıcılar yaptıkları paylaşımlara eğer isterlerse paylaşımlarıyla alakalı etiketler ekleyebileceklerdir. Bu etiketler sayesinde yapılan paylaşımlar etiketlerine göre filtrelenebileceklerdir.  
+Uygulama bir sosyal medya platformu gibi kurgulanmıştır, bu sayede kullanıcılar uygulamada yazı vasıtasıyla iletişim ve etkileşimde kalabileceklerdir. Kullanıcılar istedikleri paylaşımları beğenip yorumda bulunabilecekler bu sayede kullanıcıların kendileri arasındaki etkileşim sağlanmış olacaktır. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Giriş Yapma ve Kayit Olma Sayfalari
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Giriş Yapma Ekranı            |  Kayıt Olma Ekranı
+:-------------------------:|:-------------------------:
+<img style="margin-right: 30px" src="assets/images/girisyap.png" width=300>  |  <img style="margin-right: 30px" src="assets/images/kayitol.png" width=300>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ana Sayfa Görüntüleri
+
+Görselli Ana Sayfa Paylaşımı            |  Yazılı Ana Sayfa Paylaşımı
+:-------------------------:|:-------------------------:
+<img style="margin-right: 30px" src="assets/images/anasayfa1.png" width=300>  |  <img style="margin-right: 30px" src="assets/images/anasayfa2.png" width=300>
+
+## Profil Görüntüleri
+
+Kullanıcı Paylaşımları             |  Kullanıcı Profil Bilgileri
+:-------------------------:|:-------------------------:|
+<img style="margin-right: 30px" src="assets/images/profilsayfasi.png" width=300>  |  <img style="margin-right: 30px" src="assets/images/profilprofil.png" width=300>
+
+
+Kullanıcı Staj Geçmişi             |  Kullanıcı Çalışma Geçmişi
+:-------------------------:|:-------------------------:|
+<img style="margin-right: 30px" src="assets/images/profilstaj.png" width=300>  |  <img style="margin-right: 30px" src="assets/images/profilcalisma.png" width=300>
